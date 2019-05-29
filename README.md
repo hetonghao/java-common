@@ -1,2 +1,2 @@
 # java-common
-java通用代码
+java通用功能
